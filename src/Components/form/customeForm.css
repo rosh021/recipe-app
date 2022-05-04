@@ -1,0 +1,19 @@
+.search__form {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.search__input {
+  padding: 5px;
+  font-size: 1rem;
+}
+
+.search__btn {
+  padding: 10px;
+  margin: 8px;
+  background-color: #e1341e;
+  border: none;
+  border-radius: 2px;
+  color: white;
+  cursor: pointer;
+}
